@@ -1,10 +1,10 @@
 # coferlandia-powers
 
-A Hermes Agent skill pack for discovering, evaluating, and validating agentic online business opportunities.
+A public Agent Skills laboratory for human-agent collaboration and the emerging craft of agentic work.
 
 ## Short description
 
-`coferlandia-powers` is an Agent Skills-compatible skill pack that helps an agent discover online opportunities, evaluate them with market, financial, technical, and risk criteria, and turn the best ones into small validation experiments.
+`coferlandia-powers` is a public laboratory for the agentic era: a place where Diego Cofré and Mr. Coferland explore how humans and agents can research, build, create, and act together.
 
 ## What this is
 
