@@ -1,0 +1,16 @@
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.sqlite
+*.db
+__pycache__/
+.pytest_cache/
+dist/*
+!dist/.gitkeep
+reports/*
+!reports/.gitkeep
+.DS_Store
+Thumbs.db
