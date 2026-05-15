@@ -2,3 +2,6 @@ Project: coferlandia-powers
 Author: Diego Cofré
 Website: https://diegocofre.com.ar
 License: Apache License 2.0
+
+Additional note:
+Some skills in this repository are adapted from public Agent Skills patterns and customized for Coferlandia. Brand-specific wording from upstream sources was removed.

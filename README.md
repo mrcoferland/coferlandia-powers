@@ -87,6 +87,11 @@ Skills live under `.agents/skills/`:
 - `prediction-markets-research`
 - `online-business-osint`
 - `opportunity-reporting`
+- `skill-creator`
+- `webapp-testing`
+- `mcp-builder`
+- `brand-guidelines`
+- `internal-comms`
 
 ## Workflows list
 
